@@ -3,4 +3,4 @@
 
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alek98&show_icons=true&theme=vue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alek98&show_icons=true&hide=prs,stars,issues&theme=vue-dark)
