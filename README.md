@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -25,4 +26,4 @@
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alek98&show_icons=true&hide=prs,stars,issues&theme=vue-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alek98&show_icons=true&hide=stars,issues&theme=vue-dark)
